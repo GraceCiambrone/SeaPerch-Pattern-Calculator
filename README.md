@@ -5,3 +5,5 @@ Given a guessing pattern provided by the user, this program
 * searches for the most efficient guessing pattern possible
 
 ![](shipfinder_calculator_screenshot.png)
+
+The ShipFinder Calculator was created for a 2019 underwater robotics competition called SeaPerch.  This program helped our team place 3rd internationally.
