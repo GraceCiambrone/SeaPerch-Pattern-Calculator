@@ -38,7 +38,6 @@ class Fleet {
 
 class SearchData {
 
-
 // these variables hold the ship coordinates that have been discovered
 	private int pt_1 = -1;
 	private int pt_2 = -1;
@@ -86,7 +85,6 @@ class AdjacentUtil {
 		{10,11,14},   //...........15
 		{11,12,15}  //.............16
 	};
-
 
 	public ArrayList<Integer> getAdjacents(int x) {
 
@@ -259,8 +257,6 @@ class AdjacentUtil {
 
 		return values;
 	}
-	
-	
 }
 
 class Search {
