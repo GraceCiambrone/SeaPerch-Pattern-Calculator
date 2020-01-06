@@ -3,9 +3,8 @@
 // my SeaPerch team in 3rd for the international competition.
 //
 // This program has two purposes :
-// 	1 ) To calculate the number of average guesses it takes to discover a
-//          1x3 "ship" on a 4x4 grid given a guessing pattern provided by 
-//          the user
+// 	1 ) To calculate the average number of guesses it takes to discover a
+//          1x3 "ship" on a 4x4 grid given a guessing pattern provided by the user
 // 	2)  To search for the most efficient guessing pattern possible
 
 
