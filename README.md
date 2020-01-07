@@ -6,4 +6,4 @@ Given a guessing pattern provided by the user, this program
 
 ![](shipfinder_calculator_screenshot.png)
 
-This project was developed for a 2019 underwater robotics competition called SeaPerch.  This program helped our team place 3rd internationally.
+This project was developed for a 2019 underwater robotics competition called SeaPerch, helping our team place 3rd internationally.
